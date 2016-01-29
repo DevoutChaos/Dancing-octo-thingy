@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TwitchPlaysCthulu.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{5C7BCD95-4DBD-468E-AADD-91B4CBF2EB48}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TwitchPlaysCthulu.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TwitchPlaysCthuluEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{0505BC26-E25C-4067-85B6-DB6E60007480}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TwitchPlaysCthulu">
+			<UniqueIdentifier>{641AFB7E-BDF8-4A35-BD10-6A7D09E73BDA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthulu.Build.cs">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthulu.cpp">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthulu.h">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthuluBlock.cpp">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthuluBlock.h">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthuluBlockGrid.cpp">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthuluBlockGrid.h">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthuluGameMode.cpp">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthuluGameMode.h">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthuluPlayerController.cpp">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthuluPlayerController.h">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
