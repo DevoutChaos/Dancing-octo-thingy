@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TwitchPlaysCthulu.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{5C7BCD95-4DBD-468E-AADD-91B4CBF2EB48}</UniqueIdentifier>
+			<UniqueIdentifier>{7C918F1B-7560-46DA-9AAB-5A79212BBBB9}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TwitchPlaysCthulu.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{0505BC26-E25C-4067-85B6-DB6E60007480}</UniqueIdentifier>
+			<UniqueIdentifier>{73691C79-66D2-4994-A505-173720A358A4}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,8 +31,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TwitchPlaysCthulu">
-			<UniqueIdentifier>{641AFB7E-BDF8-4A35-BD10-6A7D09E73BDA}</UniqueIdentifier>
+			<UniqueIdentifier>{44C636B4-0C3E-44A4-8190-07D5E43AA405}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\TwitchPlaysCthulu\GeneratedMonster.cpp">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TwitchPlaysCthulu\GeneratedMonster.h">
+			<Filter>Source\TwitchPlaysCthulu</Filter>
+		</ClInclude >
 		<None Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthulu.Build.cs">
 			<Filter>Source\TwitchPlaysCthulu</Filter>
 		</None >
