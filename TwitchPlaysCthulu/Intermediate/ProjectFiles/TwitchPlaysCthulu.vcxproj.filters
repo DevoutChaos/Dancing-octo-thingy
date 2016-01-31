@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TwitchPlaysCthulu.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{5C7BCD95-4DBD-468E-AADD-91B4CBF2EB48}</UniqueIdentifier>
+			<UniqueIdentifier>{EA8E6412-A107-4CC2-A885-AB19330707A2}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TwitchPlaysCthulu.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{0505BC26-E25C-4067-85B6-DB6E60007480}</UniqueIdentifier>
+			<UniqueIdentifier>{62438046-7632-4FC1-A153-4E5C89BA3257}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TwitchPlaysCthulu">
-			<UniqueIdentifier>{641AFB7E-BDF8-4A35-BD10-6A7D09E73BDA}</UniqueIdentifier>
+			<UniqueIdentifier>{AFF69358-5F8E-4D22-8DA3-593C5159F166}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TwitchPlaysCthulu\TwitchPlaysCthulu.Build.cs">
 			<Filter>Source\TwitchPlaysCthulu</Filter>

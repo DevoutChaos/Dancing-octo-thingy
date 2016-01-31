@@ -1,0 +1,11 @@
+﻿  Performing full C++ include scan (building a new target)
+  Creating makefile for TwitchPlaysCthuluEditor (no existing makefile)
+  Performing 8 actions (4 in parallel)
+  PCH.TwitchPlaysCthulu.h.cpp
+C:\Users\craig\Documents\GitHub\Dancing-octo-thingy\TwitchPlaysCthulu\Intermediate\Build\Win64\UE4Editor\Development\TwitchPlaysCthulu\PCH.TwitchPlaysCthulu.h.cpp(1): fatal error C1085: Cannot write precompiled header file: 'C:\Users\craig\Documents\GitHub\Dancing-octo-thingy\TwitchPlaysCthulu\Intermediate\Build\Win64\UE4Editor\Development\TwitchPlaysCthulu\TwitchPlaysCthulu.h.pch': There is not enough space on the disk.
+  
+  
+  -------- End Detailed Actions Stats -----------------------------------------------------------
+ERROR : UBT error : Failed to produce item: C:\Users\craig\Documents\GitHub\Dancing-octo-thingy\TwitchPlaysCthulu\Binaries\Win64\UE4Editor-TwitchPlaysCthulu.dll
+  Total build time: 17.87 seconds
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.MakeFile.Targets(37,5): error MSB3073: The command ""D:\Epic Games\4.10\Engine\Build\BatchFiles\Build.bat" TwitchPlaysCthuluEditor Win64 Development "C:\Users\craig\Documents\GitHub\Dancing-octo-thingy\TwitchPlaysCthulu\TwitchPlaysCthulu.uproject" -rocket -waitmutex" exited with code -1.
